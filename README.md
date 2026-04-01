@@ -1,2 +1,2 @@
 # CSE110_Lab1
-Sahil's User Page
+My favorite programming language is C - it's hard but very rewarding!
